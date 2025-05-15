@@ -9,8 +9,8 @@ function App() {
       </div>
       <div className="content">임세연 백엔드</div>
       <div className="content">이민주 프론트엔드</div>
+      <div className="content">신정연 백엔드</div>
     </div>
   );
 }
-
 export default App;
