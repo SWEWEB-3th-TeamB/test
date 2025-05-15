@@ -11,7 +11,8 @@ function App() {
       <div className="content">이민주 프론트엔드</div>
       <div className="content">김민주 프론트엔드</div>
       <div className="content">이민주 프론트엔드</div>
-    </div>
+      <div className="content">이름 파트</div>
+      </div>
   );
 }
 
