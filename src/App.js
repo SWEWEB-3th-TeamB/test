@@ -9,8 +9,10 @@ function App() {
       </div>
       <div className="content">임세연 백엔드</div>
       <div className="content">이민주 프론트엔드</div>
+      <div className="content">김민주 프론트엔드</div>
+      <div className="content">이민주 프론트엔드</div>
       <div className="content">이름 파트</div>
-    </div>
+      </div>
   );
 }
 
