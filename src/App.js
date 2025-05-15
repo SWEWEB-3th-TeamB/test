@@ -5,7 +5,7 @@ function App() {
     <div className="container">
       <div className="title">깃허브 연습하기</div>
       <div className="text">
-        content 추가해서 본인 이름 + 파트 작성하고 git에 브랜치 만들고 push하기
+        오소윤 백엔드
       </div>
       <div className="content">임세연 백엔드</div>
       <div className="content">이민주 프론트엔드</div>
